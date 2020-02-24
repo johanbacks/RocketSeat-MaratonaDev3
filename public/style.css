@@ -122,7 +122,8 @@ footer {
   border: 1px solid #eee;
 }
 .donors p {
-  margin-top: 24px;
+  margin-top: 24px ;
+  margin-bottom: 60px;
   font-size: 14px;
 }
 /* Funciton of JS*/
